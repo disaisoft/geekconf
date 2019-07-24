@@ -1,0 +1,20 @@
+{
+  "name": "geekconf",
+  "version": "1.0.0",
+  "description": "Proyecto donde convertiré una landing page por componentes utilizando  react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disaisoft/geekconf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/disaisoft/geekconf/issues"
+  },
+  "homepage": "https://github.com/disaisoft/geekconf#readme"
+}
